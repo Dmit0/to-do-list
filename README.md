@@ -1,2 +1,3 @@
 # to-do-list
-to do list
+npm install -> npm test
+

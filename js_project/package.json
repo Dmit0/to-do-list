@@ -1,0 +1,33 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "list of tasks",
+  "main": "'./src/app.js'",
+  "dependencies": {
+    "css-loader": "^3.5.2",
+    "html-webpack-plugin": "^4.2.0",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.4",
+    "webpack-cli": "^3.3.11",
+    "webpack": "^4.42.1",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": " \"webpack-dev-server --mode development --open\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmit0/to-do-list.git"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "Sheshunov_Dmitrii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmit0/to-do-list/issues"
+  },
+  "homepage": "https://github.com/Dmit0/to-do-list#readme"
+}
